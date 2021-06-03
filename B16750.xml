@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of November 12 from General Monck directed (&amp; delivered) to the Lord Mayor, Aldermen, and Common Council of the city of London, inciting them and all true English-men, to give their assistance, for redemption of the almost lost liberties of England.</title>
+            <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16750</idno><idno type="EEBO-CITATION">12561855</idno>
+  <idno type="VID">200257</idno>
+  <idno type="EEBO-PROQUEST">2240969211</idno>
+  
+            <idno type="STC">Wing A860A</idno>
+            <idno type="OCLC">12561855</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200257)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 953:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of November 12 from General Monck directed (&amp; delivered) to the Lord Mayor, Aldermen, and Common Council of the city of London, inciting them and all true English-men, to give their assistance, for redemption of the almost lost liberties of England.</title>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Attributed to the Duke of Albemarle, George Monk. cf. NUC pre-1956.</note>
+                  <note>Incorrectly identified as Wing A860.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:200257:1"/>
+            <pb facs="tcp:200257:1"/>
+            <p>A LETTER Of <hi>November 12.</hi> FROM General Monck, DIRECTED (&amp; DELIVERED) To the Lord Mayor, Aldermen, and Common Council of the City of <hi>London;</hi> Inciting them, and all true <hi>English-men,</hi> to give their Assistance, for Redemption of the almost lost Liberties of <hi>England.</hi>
+            </p>
+            <p>Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:200257:2"/>
+            <pb n="3" facs="tcp:200257:2"/>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>UPon the first notice I had of the late Force put upon the Par<g ref="char:EOLhyphen"/>liament, I directed a Letter to you, to acquaint you, that My Resolutions were according to My Duty, to stand by them, and to endevour their re-establishment, though with the hazard of whatsoever was Dear to Me, and that the Army under My Command, was very Cordiall and Unanimous in that underta<g ref="char:EOLhyphen"/>king, but that Letter comming to a mischance, I have, at the desire, and with the Concurrence of the OFFICERS here, again Written unto you, to let you know, That we still are Constant to our first Resolutions, in which we are the more Confirmed, since we have been informed, that the AUTHOURS of that FORCE have proceeded so far as to <hi>null and make void Acts of Parliament,</hi> which the <hi>King,</hi> when he was at the highest, never pre<g ref="char:EOLhyphen"/>tended to do, and which no true English-man can endure to see done by any but Parliaments themselves, and are now contriving, by their own Power and Authority, to set up <hi>a new Government over the 3 Na<g ref="char:EOLhyphen"/>tions:</hi> If this be suffered, I know not to what purpose all this <hi>Blood</hi> hath been spilt, all this <hi>Treasure</hi> spent, and all those <hi>Engagements</hi> made; We must take upon our selves the <hi>Guilt</hi> of all, and look upon this Slavery we have brought upon our selves, as <hi>A Judgment</hi> upon Us for our <hi>Murders,</hi> and <hi>Rapines,</hi> and <hi>Perjuries;</hi> I take God to witnesse, I have made no other End, than to restore the <hi>Parliament</hi> to its <hi>former Freedome and Authority,</hi> and the People to their just Rights and Liberties; in which I am sure, I cannot want your assistance: It is not the desire of any here, that those which truly fear God, should be hindred of their Liberty, to worship him, according to their several perswasions; or that the Congregated Churches should be abridged of any of the Priviledges and Freedoms they have bin used to enjoy, or even to claim: There are many Members of those Churches with Us, which can give us this Testimony, yet We could be content, that some Men should not un<g ref="char:EOLhyphen"/>der pretence of maintaining that Liberty, endeavour the overthrow of the <hi>National Ministery,</hi> and by consequence leave the greatest part of the People to <hi>Ignorance</hi> and <hi>Athiesm,</hi> However, this is not the Thing for which we at present Contend, we shall leave this and all other things to <hi>the Parliament,</hi> the Confessed Supream Judicature of the Nation; but for the Defence of that, we are All Resolved to ven<g ref="char:EOLhyphen"/>ture to the utmost. If this good Cause shall miscarry in my hands,
+<pb n="4" facs="tcp:200257:3"/> through want of your timely Assistance, it will be <hi>too late</hi> for you to endeavour to Support it with your own strength; and if it prosper, it will be dishonourable for a City so famous, and so much concerned, That its <hi>Liberties</hi> should be Asserted, without its own help. I know you are so sensible of the Interest of Gods People, the Rights of the whole Nation, and of your own Charter, (which cannot be safe in the hands of these <hi>Overturners,</hi> and which hath been already indi<g ref="char:EOLhyphen"/>rectly threatned by them) that you will not be wanting, to that Op<g ref="char:EOLhyphen"/>portunity which God hath put into your hands: But Now, while their Army is waiting upon Me in the North, <hi>use your utmost En<g ref="char:EOLhyphen"/>deavours,</hi> in the South. And therefore I shall need to use no other Perswasions to English men, and Men that have Engaged all along in the same Cause: But shall pray to God to unite your Hearts, and strengthen your Hands in this Good Work, and remain</p>
+            <closer>
+               <signed>Your Lordships very Humble Servant, George Monck.</signed>
+               <dateline>Edenbourgh, <date>
+                     <hi>Novemb.</hi> 12th. 1659.</date>
+               </dateline> To the Right Honourable, the Lord Mayor, Aldermen, and Common Councill of the City of LONDON.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>VVHich Letter being Deliverd to the Court, <hi>Novemb. 23.</hi> By two Gentlemen of Quality, was well Rescented, not a<g ref="char:EOLhyphen"/>bove nine or ten (of two hundred then present) opposing the Reading thereof; which being Read, in regard of a seeming Treaty on Foot: The Court thought fit at present, till the Issue thereof do further ap<g ref="char:EOLhyphen"/>pear to do nothing thereupon.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:200257:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
